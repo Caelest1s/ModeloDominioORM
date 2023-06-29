@@ -1,2 +1,2 @@
 # ModeloDominioORM
-expandir conhecimento e relações dentre banco de dados
+expandir conhecimento e relacoes dentre banco de dados!!
